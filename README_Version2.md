@@ -1,7 +1,7 @@
   # Hi there, I'm W4t4r1! 👋
 
 Welcome to my GitHub profile!  
-Here you'll find a showcase of my passion for technology, learning, and building impactful projects.
+Here you'll find a little about me.
 
 ---
 
